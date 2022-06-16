@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAC,CACE,WAAW,CAAE,qBACP,CACT,AAGD,AAAA,UAAU,AAAC,CACP,KAAK,CAAE,MAAM,CAChB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/blocks/_menu.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}

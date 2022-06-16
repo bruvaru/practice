@@ -1,0 +1,27 @@
+.menu {
+   padding: 36px 0px 32px 0px;
+    &__list {
+        padding-top: 33px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__link {
+        list-style-type: none;
+        a{
+            font-size: 18px;
+            line-height: 21px;
+            color: #828282;
+            text-decoration: none;
+            &:hover {
+                color: #070707;
+            }
+        }
+    }
+
+}
+hr {
+    border: 1px solid #828282;
+    margin: 0 auto;
+
+}
